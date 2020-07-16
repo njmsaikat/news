@@ -9,7 +9,7 @@
 
 1. User Friendly
 2. Article View
-3. Collumn Section Divided
+3. Column Section Divided
 4. Responsive 
 5. Simple and Easy
 
